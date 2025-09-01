@@ -1,0 +1,14 @@
+C:\Source\TrayReminderApp\TrayReminderApp\bin\Release\net9.0-windows\TrayReminderApp.exe
+C:\Source\TrayReminderApp\TrayReminderApp\bin\Release\net9.0-windows\TrayReminderApp.deps.json
+C:\Source\TrayReminderApp\TrayReminderApp\bin\Release\net9.0-windows\TrayReminderApp.runtimeconfig.json
+C:\Source\TrayReminderApp\TrayReminderApp\bin\Release\net9.0-windows\TrayReminderApp.dll
+C:\Source\TrayReminderApp\TrayReminderApp\bin\Release\net9.0-windows\TrayReminderApp.pdb
+C:\Source\TrayReminderApp\TrayReminderApp\obj\Release\net9.0-windows\TrayReminderApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\TrayReminderApp\TrayReminderApp\obj\Release\net9.0-windows\TrayReminderApp.AssemblyInfoInputs.cache
+C:\Source\TrayReminderApp\TrayReminderApp\obj\Release\net9.0-windows\TrayReminderApp.AssemblyInfo.cs
+C:\Source\TrayReminderApp\TrayReminderApp\obj\Release\net9.0-windows\TrayReminderApp.csproj.CoreCompileInputs.cache
+C:\Source\TrayReminderApp\TrayReminderApp\obj\Release\net9.0-windows\TrayReminderApp.dll
+C:\Source\TrayReminderApp\TrayReminderApp\obj\Release\net9.0-windows\refint\TrayReminderApp.dll
+C:\Source\TrayReminderApp\TrayReminderApp\obj\Release\net9.0-windows\TrayReminderApp.pdb
+C:\Source\TrayReminderApp\TrayReminderApp\obj\Release\net9.0-windows\TrayReminderApp.genruntimeconfig.cache
+C:\Source\TrayReminderApp\TrayReminderApp\obj\Release\net9.0-windows\ref\TrayReminderApp.dll
